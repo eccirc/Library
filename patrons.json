@@ -1,0 +1,11 @@
+[ {
+  "name" : "Kemi Shabazz",
+  "type" : "PATRON",
+  "borrowedItems" : [ ],
+  "userID" : "105f7f77-4f98-43a1-8825-91210fc8cc3a"
+}, {
+  "name" : "Joanna Kipling",
+  "type" : "PATRON",
+  "borrowedItems" : [ ],
+  "userID" : "42a31ce3-0ff6-4bc1-856a-bc3ebed9bff5"
+} ]
